@@ -1,0 +1,21 @@
+Produto;Valor;Quantidade
+Alavanca de Cambio;638,54;7
+Cambios;985,04;12
+Corrente;652,08;13
+Pedivela;328,88;7
+Pedal;276;4
+Movimento Central;1023,13;5
+Guidao;1106,38;12
+Mesa;272,77;10
+Manopla;1119,66;2
+Manete;715,07;3
+Suspensao;933,51;7
+Canotes;810,78;15
+Selim;178,2;13
+Caixa de Direcao;1035,55;8
+k7;403,62;3
+Cubos;650,99;7
+Rodas;197,63;8
+Pneus;1155,05;6
+Blocagem;67,18;9
+Sistemas de Freios;700,98;14
